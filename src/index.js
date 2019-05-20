@@ -1,5 +1,3 @@
-// import the react and rect doom libs
-
 import React  from 'react';
 import ReactDOM  from 'react-dom';
 import SeasonDisplay from './SeasonDisplay';
